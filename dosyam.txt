@@ -1,2 +1,2 @@
-feat branci ile push yapacam.
+master merge sonrası ilk commit.
 
