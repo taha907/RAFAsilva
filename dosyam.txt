@@ -1,1 +1,2 @@
-repoya ilk pus yapıyorum.
+feat branci ile push yapacam.
+
