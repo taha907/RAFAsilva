@@ -1,1 +1,1 @@
-yazımı yazdım. yeni branchte değişiklik yaptım
+feat branci ile push yapacam.
